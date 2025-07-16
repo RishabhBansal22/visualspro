@@ -1,4 +1,6 @@
 dotenv
 SQLAlchemy
+PyMySQL
 langchain
 langchain-groq
+Pydantic
