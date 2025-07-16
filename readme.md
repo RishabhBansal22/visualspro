@@ -1,0 +1,1 @@
+A tool that lets you visualize sql data by natural language instructions
